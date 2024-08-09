@@ -1,0 +1,2 @@
+id,name,cont,contg,contl,txcont,varcont,restx,fcas,ffr,ffrup,ffrdw,pfr,pfrup,pfrdw,res2,res2up,res2dw,res3,res3up,res3dw,zenith,nadir,rocof,qssf,kirchhoff,lastst,linear_,linelim,mindwt,minupt,pmin,pmax,prices,ramps,stup,shdw,uninodal,inv,h2dem,pipe
+1,UC_CONSTRAINT,1,1,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,1,1,1,0,1,1,0

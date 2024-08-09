@@ -1,0 +1,11 @@
+id,name,alias,active,latitude,longitude,area_id
+1,CNQ,Central and North Queensland,1,-24.401793,150.527562,1
+2,GG,Gladstone Grid,1,-23.842948,151.248803,1
+3,SQ,South Queensland,1,-27.476625,153.029934,1
+4,NNSW,Northern New South Wales,1,-30.504711,151.652465,2
+5,CNSW,Central New South Wales,1,-33.4833,150.157717,2
+6,SNW,"Sydney, New Castle, Wollongong",1,-33.865,151.209444,2
+7,SNSW,South New South Wales,1,-35.11098,147.359907,2
+8,VIC,Victoria,1,-37.766053,144.943397,3
+9,TAS,Tasmania,1,-42.880556,147.325,4
+10,SA,South Australia,1,-34.929,138.601,5

@@ -1,0 +1,2 @@
+id,name,tech,dem_id,active,investment,capacity,n,shift,pshup_max,pshdn_max,rec_sh,cost_shup,cost_shdn,eshup_max,eshdn_max,payback,advance,reduct,pred_max,cost_red,ered_target,ramp,ramp_up,ramp_dn
+1,DUMMY_DER,DR,1,0,0,1000,1,1,1000,1000,12,0,0,99999,99999,0.2,1,0,250,25,999999999999,0,0,0

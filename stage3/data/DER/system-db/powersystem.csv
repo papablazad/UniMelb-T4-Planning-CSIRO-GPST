@@ -1,0 +1,2 @@
+id,name,active,voll,fnom,genloss,loadloss,rocoflow,rocofhigh,nadir,zenith,qssflow,qssfhigh,tpfr,tres2,tres3,fdeadband,dem_damping,sys_id
+1,NEM,1,13500,50,300,300,-1,1,49,51,49.5,50.5,6,5,30,0.15,2,1

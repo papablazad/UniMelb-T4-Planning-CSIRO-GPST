@@ -8,7 +8,7 @@ UniMelb repository for Topic 4 Planning - CSIRO/GPST
 >[***Assessing flexibility, risk, and resilience in low-carbon power system planning under deep uncertainty** - Stage 2 final report*](https://www.csiro.au/-/media/EF/Files/GPST-Roadmap/Final-Reports/Topic-4-GPST-Stage-2.pdf)<br>
 >*Sebastián Püschel-Løvengreen, Sleiman Mhanna, Pablo Apablaza, Pierluigi Mancarella, Jesse Bukenberger, Miguel Ortega-Vazquez*
 
->[***Energy infrastructure planning under deep uncertainty: Assessing impacts and benefits of energy system integration** - Stage 3 final report (To be published)*](-)<br>
+>[***Energy infrastructure planning under deep uncertainty: Assessing impacts and benefits of energy system integration** - Stage 3 final report*](https://www.csiro.au/-/media/EF/Files/GPST-Roadmap/Stage3-Final/Topic-4_Planning.pdf)<br>
 >*Pablo Apablaza, Cristian Alcarruz, Ronggen Chen, Bastian Moya, Sleiman Mhanna, Pierluigi Mancarella*
 
 

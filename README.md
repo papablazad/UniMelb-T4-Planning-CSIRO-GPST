@@ -11,9 +11,17 @@ UniMelb repository for Topic 4 Planning - CSIRO/GPST
 >[***Energy infrastructure planning under deep uncertainty: Assessing impacts and benefits of energy system integration** - Stage 3 final report*](https://www.csiro.au/-/media/EF/Files/GPST-Roadmap/Stage3-Final/Topic-4_Planning.pdf)<br>
 >*Pablo Apablaza, Cristian Alcarruz, Ronggen Chen, Bastian Moya, Sleiman Mhanna, Pierluigi Mancarella*
 
-### 📑 Papers
+### 📑 Related Papers
 >[***Flexible planning of low-carbon power systems under deep uncertainty***](https://cse.cigre.org/cse-n031/flexible-planning-of-low-carbon-power-systems-under-deep-uncertainty.html)<br>
 >*Sebastián Püschel-Løvengreen, Sleiman Mhanna, Pierluigi Mancarella*
 
 >[***Assessing the impact of DER on the expansion of low-carbon power systems under deep uncertainty***](https://www.sciencedirect.com/science/article/pii/S0378779624007107)<br>
 >*Pablo Apablaza, Sebastián Püschel-Løvengreen, Rodrigo Moreno, Sleiman Mhanna, Pierluigi Mancarella*
+
+>[***Valuing Distributed Energy Resources Flexibility in a Risk-Aware and Uncertain Power System Planning Context***]()<br>
+>*To be published in Sustainable Energy, Grids and Networks (SEGAN)*
+>*Pablo Apablaza, Sebastián Püschel-Løvengreen, Rodrigo Moreno, Pierluigi Mancarella*
+
+>[***Optimal Design of Electrolysis-based Hydrogen Hubs: Impact of Different Hydrogen Demand Profile Assumptions on System Flexibility and Investment Portfolios***]()<br>
+>*To be published in Sustainable Energy, Grids and Networks (SEGAN)*
+>*Ronggen Chen, Sleiman Mhanna, Pierluigi Mancarella*

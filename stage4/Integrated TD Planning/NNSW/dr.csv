@@ -1,0 +1,3 @@
+id_dr,name,tech,id_dem,active,investment,capacity,n,shift,pshup_max,pshdn_max,esh_max,esh_min,rec_sh,cost_sh,reduct,pred_max,cost_red,ramp,ramp_up,ramp_dn
+1,Reduction,DSP,6,0,0,10,1,0,10,10,0,0,4,20,1,10,300,0,99999,99999
+2,Shifting,DSP,10,0,0,10,1,1,10,10,0,0,4,40,0,50,700,0,99999,99999

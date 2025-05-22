@@ -19,9 +19,9 @@ UniMelb repository for Topic 4 Planning - CSIRO/GPST
 >*Pablo Apablaza, Sebastián Püschel-Løvengreen, Rodrigo Moreno, Sleiman Mhanna, Pierluigi Mancarella*
 
 >[***Valuing Distributed Energy Resources Flexibility in a Risk-Aware and Uncertain Power System Planning Context***]()<br>
->*To be published in Sustainable Energy, Grids and Networks (SEGAN)*\
+>*Accepted Paper - To be published in Sustainable Energy, Grids and Networks (SEGAN)*\
 >*Pablo Apablaza, Sebastián Püschel-Løvengreen, Rodrigo Moreno, Pierluigi Mancarella*
 
 >[***Optimal Design of Electrolysis-based Hydrogen Hubs: Impact of Different Hydrogen Demand Profile Assumptions on System Flexibility and Investment Portfolios***]()<br>
->*To be published in Sustainable Energy, Grids and Networks (SEGAN)*\
+>*Accepted Paper - To be published in Sustainable Energy, Grids and Networks (SEGAN)*\
 >*Ronggen Chen, Sleiman Mhanna, Pierluigi Mancarella*
